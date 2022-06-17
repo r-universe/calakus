@@ -1,0 +1,10 @@
+[
+  {
+    "package": "RFCCA",
+    "oncran": true
+  },
+  {
+    "package": "RFpredInterval",
+    "oncran": true
+  }
+]
