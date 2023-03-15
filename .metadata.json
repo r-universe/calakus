@@ -1,10 +1,10 @@
 [
   {
-    "package": "RFpredInterval",
+    "package": "RFCCA",
     "oncran": true
   },
   {
-    "package": "RFCCA",
+    "package": "RFpredInterval",
     "oncran": true
   }
 ]

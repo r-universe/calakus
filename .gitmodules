@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "RFpredInterval"]
-	path = RFpredInterval
-	url = https://github.com/calakus/rfpredinterval
-	shallow = true
-	registered = true
 [submodule "RFCCA"]
 	path = RFCCA
 	url = https://github.com/calakus/rfcca
+	shallow = true
+	registered = true
+[submodule "RFpredInterval"]
+	path = RFpredInterval
+	url = https://github.com/calakus/rfpredinterval
 	shallow = true
 	registered = true
