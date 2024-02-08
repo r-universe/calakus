@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "CovRegRF"]
 	path = CovRegRF
-	url = https://github.com/cran/CovRegRF
+	url = https://github.com/calakus/covregrf
 [submodule "RFCCA"]
 	path = RFCCA
 	url = https://github.com/calakus/rfcca
