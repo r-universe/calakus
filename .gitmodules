@@ -4,10 +4,10 @@
 	branch = HEAD
 [submodule "CovRegRF"]
 	path = CovRegRF
-	url = https://github.com/calakus/covregrf
+	url = https://github.com/cran/CovRegRF
 [submodule "RFCCA"]
 	path = RFCCA
-	url = https://github.com/calakus/rfcca
+	url = https://github.com/cran/RFCCA
 [submodule "RFpredInterval"]
 	path = RFpredInterval
-	url = https://github.com/calakus/rfpredinterval
+	url = https://github.com/cran/RFpredInterval
