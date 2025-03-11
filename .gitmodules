@@ -8,6 +8,3 @@
 [submodule "RFCCA"]
 	path = RFCCA
 	url = https://github.com/cran/RFCCA
-[submodule "RFpredInterval"]
-	path = RFpredInterval
-	url = https://github.com/cran/RFpredInterval
